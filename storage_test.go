@@ -1,7 +1,7 @@
 package static_test
 
 import (
-	"github.com/kazhuravlev/go-torrent/srv-media/static"
+	"github.com/kazhuravlev/static-storage"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
